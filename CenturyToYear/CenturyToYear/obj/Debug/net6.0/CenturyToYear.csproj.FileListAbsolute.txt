@@ -1,0 +1,15 @@
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/bin/Debug/net6.0/CenturyToYear
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/bin/Debug/net6.0/CenturyToYear.deps.json
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/bin/Debug/net6.0/CenturyToYear.runtimeconfig.json
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/bin/Debug/net6.0/CenturyToYear.dll
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/bin/Debug/net6.0/CenturyToYear.pdb
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.csproj.AssemblyReference.cache
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.AssemblyInfoInputs.cache
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.AssemblyInfo.cs
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.csproj.CoreCompileInputs.cache
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.dll
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/refint/CenturyToYear.dll
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.pdb
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/CenturyToYear.genruntimeconfig.cache
+/Users/hardcoder/Projects/CenturyToYear/CenturyToYear/obj/Debug/net6.0/ref/CenturyToYear.dll
